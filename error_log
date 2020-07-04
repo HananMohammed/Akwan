@@ -1,0 +1,23 @@
+[10-Feb-2020 09:56:21 UTC] PHP Fatal error:  Cannot declare class CreateFruitsTable, because the name is already in use in /home/jqjk9sbm44z5/public_html/ac/database/migrations/2020_02_10_190655_create_fruits_table.php on line 47
+[10-Feb-2020 09:57:27 UTC] PHP Fatal error:  Cannot declare class CreateFruitsTable, because the name is already in use in /home/jqjk9sbm44z5/public_html/ac/database/migrations/2020_02_10_190655_create_fruits_table.php on line 47
+[10-Feb-2020 10:10:00 UTC] PHP Fatal error:  Cannot declare class CreateFruitsTable, because the name is already in use in /home/jqjk9sbm44z5/public_html/ac/database/migrations/2020_02_10_190655_create_fruits_table.php on line 62
+[10-Feb-2020 10:14:35 UTC] PHP Fatal error:  Cannot declare class CreateFruitsTable, because the name is already in use in /home/jqjk9sbm44z5/public_html/ac/database/migrations/2020_02_10_190655_create_fruits_table.php on line 69
+[10-Feb-2020 10:25:52 UTC] PHP Fatal error:  Cannot declare class CreateFruitsTable, because the name is already in use in /home/jqjk9sbm44z5/public_html/ac/database/migrations/2020_02_10_190655_create_fruits_table.php on line 68
+[12-Feb-2020 09:50:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[12-Feb-2020 09:50:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[12-Feb-2020 09:50:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[12-Feb-2020 09:50:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[12-Feb-2020 09:51:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[12-Feb-2020 09:51:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/ac/app/repository/CrudRepository.php on line 127
+[03-Mar-2020 11:11:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/8a5b74125954d937a3d71d071f18047cd8447b09.php on line 64
+[03-Mar-2020 11:23:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/8a5b74125954d937a3d71d071f18047cd8447b09.php on line 68
+[03-Mar-2020 12:49:29 UTC] PHP Fatal error:  Cannot use App\Http\Requests\Category as Category because the name is already in use in /home/jqjk9sbm44z5/public_html/akwan/app/Http/Controllers/CategoryController.php on line 8
+[03-Mar-2020 12:51:43 UTC] PHP Fatal error:  Cannot use App\Http\Requests\Category as Category because the name is already in use in /home/jqjk9sbm44z5/public_html/akwan/app/Http/Controllers/CategoryController.php on line 8
+[08-Mar-2020 14:57:25 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 278
+[09-Mar-2020 06:17:56 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 278
+[09-Mar-2020 07:24:39 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 278
+[09-Mar-2020 07:33:27 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 278
+[09-Mar-2020 07:34:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 278
+[09-Mar-2020 08:40:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/62c8c1f2060a3800ada6b4e576433b7a2be5527f.php on line 282
+[10-Mar-2020 09:27:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/e04ffd8d025e65df5a8dffd129f738fe0da14cef.php on line 38
+[10-Mar-2020 09:28:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jqjk9sbm44z5/public_html/akwan/storage/framework/views/e04ffd8d025e65df5a8dffd129f738fe0da14cef.php on line 40
